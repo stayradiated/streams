@@ -51,5 +51,5 @@ stream-adventure
 ### Testing your solution
 
 ```shell
-stream-adventure verify 1_beep_boop.js
+stream-adventure verify 01_beep_boop.js
 ```
