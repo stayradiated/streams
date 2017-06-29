@@ -1,5 +1,13 @@
 # Streams Workshop
 
+## Useful Links
+
+### [Stream Adventure](https://github.com/workshopper/stream-adventure)
+
+### [Stream Handbook](https://github.com/substack/stream-handbook)
+
+### [Node.js Stream API Docs](https://nodejs.org/api/stream.html)
+
 ## Setup
 
 ### 1. Clone this git repo
