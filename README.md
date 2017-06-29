@@ -4,9 +4,19 @@
 
 ### [Stream Adventure](https://github.com/workshopper/stream-adventure)
 
+The source repo for stream-adventure. This can be useful if you get stuck
+trying to run the verify step, as chances are it will be logged as a Github
+Issue.
+
 ### [Stream Handbook](https://github.com/substack/stream-handbook)
 
+This is a great introduction to how streams work.
+
 ### [Node.js Stream API Docs](https://nodejs.org/api/stream.html)
+
+These are the official docs on the Streams API. They can be a bit hard to
+understand, but might be useful if you need to know what methods and arguments
+are available.
 
 ## Setup
 
